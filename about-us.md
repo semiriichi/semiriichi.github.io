@@ -4,12 +4,8 @@ title: About Us
 permalink: /about-us/
 ---
 
-Some information about you!
+Some information about us.
 
-### More Information
+### Contact Us!
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Get in touch with us either through Discord or by using [semiriichi@gmail.com](mailto:semiriichi@gmail.com)
