@@ -212,7 +212,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -224,7 +224,7 @@ nav {
   }
 
   a {
-    margin-left: 10px;
+    margin-left: 0px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
