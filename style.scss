@@ -23,30 +23,6 @@
   src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
 
-@font-face {
-  font-family: "Caslon";
-  src: url("/fonts/ACaslonPro-Regular.otf");
-}
-
-@font-face {
-  font-family: "Caslon";
-  src: url("/fonts/ACaslonPro-Italic.otf");
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Caslon";
-  src: url("/fonts/ACaslonPro-Bold.otf");
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: "Caslon";
-  src: url("/fonts/ACaslonPro-BoldItalic.otf");
-  font-weight: bold;
-  font-style: italic;
-}
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -69,7 +45,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: RobotoSlab;
   color: $darkerGray;
   font-weight: bold;
 
