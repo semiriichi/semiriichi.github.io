@@ -9,6 +9,44 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+//
+// FONT FACES
+//
+
+@font-face {
+  font-family: "Inconsolata";
+  src: url("/fonts/Inconsolata-VariableFont_wdth,wght.ttf");
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-Regular.otf");
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-Italic.otf");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-Bold.otf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Caslon";
+  src: url("/fonts/ACaslonPro-BoldItalic.otf");
+  font-weight: bold;
+  font-style: italic;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
