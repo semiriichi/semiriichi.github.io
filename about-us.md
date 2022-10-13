@@ -14,4 +14,4 @@ Most of our club activity happens on our Discord server, and our online nights (
 
 ### Contact Us!
 
-Get in touch with us either through our Discord or by using [semiriichi@gmail.com](mailto:semiriichi@gmail.com)
+Get in touch with us either through our Discord or by sending us a message at [semiriichi@gmail.com](mailto:semiriichi@gmail.com).
