@@ -27,3 +27,7 @@ The [efficiency trainer](https://euophrys.itch.io/mahjong-efficiency-trainer) is
 ### Super Digital Mahjong
 
 [Super Digital Mahjong](https://natsuai.com/mahjong/digital/) by Japanese pro player Kobayashi Gō is another intermediate-level resource covering riichi strategy with a focus on so-called "digital" play -- a mahjong philosophy that prioritizes making decisions based on sound understanding of the statistics and probability involved rather than playing by intuition or feel.
+
+### Riichi Scoring Trainer
+
+This [Riichi Scoring Trainer](https://scoringtrainer.konbamwa.net/) brought to you courtesy of reddit user Varantha is a handy tool to help you practice counting fu and han and quiz yourself on how many points each hand is worth.
