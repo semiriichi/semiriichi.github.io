@@ -10,6 +10,8 @@ Our group was founded in 2009, the year the anime Saki came out. Not coincidenta
 
 Most of us just play for fun, but some of us have quite high mahjong aspirations. Many of us are in the American Riichi Mahjong League and we represent all levels there, from B3-A1. We have players ranging in skill from still learning the game to World Riichi convention intvitees. We welcome players of all levels, including people who have never played! 
 
+
+
 ### Contact Us!
 
 Get in touch with us either through Discord or by using [semiriichi@gmail.com](mailto:semiriichi@gmail.com)
