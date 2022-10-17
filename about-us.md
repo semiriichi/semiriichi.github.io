@@ -4,7 +4,7 @@ title: About Us
 permalink: /about-us/
 ---
 
-<img class="leftAlign" src="https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/club_duderstadt.png"/>
+<img class="leftAlign" src="https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-us/club_duderstadt.png"/>
 
 Southeast Miichigan Riichi was founded in 2009, the year the mahjong anime Saki came out. Not coincidentally, this is how many of us learned about riichi to begin with! We started out small and met up in various locations over the years across all of southeast Michigan, before eventually settling on an Ann Arbor/Ypsilanti meetup (where we play on the University of Michigan campus) and a Livonia meetup for folks who live in Detroit. We meet both in person and online, so if you aren't local to us and want a group to play with, you're very welcome!
 
