@@ -55,6 +55,8 @@ Finally, if a player has a hand in tenpai *and* has at least one yaku, they are 
 
 Like chii and pon, ron and tsumo calls are said out loud to alert the table that you have won the hand. Once calling ron or tsumo, you flip down the tiles of your hand so that the other players can confirm you indeed have a winning hand, and then the hand is scored (scoring can occasionally be complex and won't be covered on this page). Once the hand is scored, points are redistributed accordingly, and the next round starts. If all 70 tiles of the playing wall have been drawn and discarded and no player has won a hand, the round is said to end in exhaustive draw (*Ryuukyoku*). A typical game of riichi mahjong has eight rounds, though certain conditions can cause rounds to repeat. Whoever has the most points at the end of the final round wins the game.
 
+This all seems like a lot of information just to get started, but I promise that the game and the general thrust of hand-building makes more sense in practice than it does in text. There's no substitute for just trying it out! More detailed discussions and rules are much easier to interpret once you have wrapped your mind around the basic structure and flow of the game.
+
 ### What's unique to riichi?
 
 A full accounting of the rules of riichi mahjong and how they differ from other mahjong variants is outside the scope of this intro page. That said, four crucial aspects of riichi warrant mention here:
