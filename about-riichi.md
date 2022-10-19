@@ -4,9 +4,9 @@ title: What is Riichi Mahjong?
 permalink: /about-riichi/
 ---
 
-Riichi mahjong is a variant of mahjong created and popularized in Japan. Mahjong is a family of tile-based games where the goal is to create a winning hand containing specific combinations of tiles, either by drawing them from the tile wall or by calling them from other players. Mahjong shares some similarities with rummy games, and if you've played rummy before the goal of creating runs and sets may already be familiar to you. Riichi mahjong involves an engaging mix of luck, strategy, and skill, and if it sounds interesting to you, please read on and learn a little more about the game!
+Riichi mahjong is a variant of mahjong created and popularized in Japan. Mahjong is a family of tile-based games where the goal is to create a winning hand containing specific combinations of tiles, either by drawing them from the tile wall or by calling them from other players. Mahjong shares some similarities with rummy games, and if you've played rummy before the goal of creating runs and sets may already be familiar to you. Riichi mahjong involves an engaging mix of luck, strategy, and skill, and if it sounds interesting to you, please read on and learn a little more about the game (or just jump in and try it).
 
-### Brief history
+### Brief cultural context
 
 Mahjong was developed in China in the 19th century. There are a number of Chinese mahjong variants, including Chinese classical mahjong, Sichuan mahjong, and Hong Kong/Cantonese mahjong. In the 1920s, mahjong was imported to the United States (by way of an oil company representative who played while living in China) and to Japan (by way of a soldier named Saburo Hirayama). The American variant was eventually standardized in 1935 when the rules were simplified and codified, and is now commonly referred to as *Mah-jongg*. In Japan, Hirayama started a mahjong club, parlor, and school in Tokyo. The rules for Japanese mahjong were initially simplified and then later made more complex before it evolved into modern riichi mahjong. This process of evolution also involved the creation of a number of regional variants.
 
@@ -15,6 +15,8 @@ Riichi mahjong is now the most popular table game in Japan, with millions of pla
 Recently, riichi mahjong has been increasing in popularity outside Japan in part due to its depiction in anime/manga (especially Saki and Akagi) and in video games (such as Final Fantasy XIV and Yakuza). Accessible online platforms for playing riichi mahjong, such as Mahjong Soul, have also contributed to its increasing popularity. 
 
 ### Playing the game
+
+A standard game of riichi mahjong starts with four players shuffling a set of 136 tiles, then arranging them into a set of four "walls" two tiles high and 17 tiles long. After placing the walls, the first dealer rolls a pair of dice to determine where the tile wall is broken, then each player takes tiles until they have 13 tiles as their starting hand. Seven tile stacks (14 tiles total) are marked for a special purpose and are known as the "dead wall," and the remaining 70 tiles form the playing wall, where players draw from. Players then begin drawing tiles from the wall, starting with the dealer and moving counterclockwise, discarding a tile each time so that their hand remains at 13 tiles. Discards are placed in an ordered fashion, as required by the rules (using your opponents' discards to glean information about their hand is also an important element of strategy).
 
 
 
