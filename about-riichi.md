@@ -16,28 +16,28 @@ Recently, riichi mahjong has been increasing in popularity outside Japan in part
 
 ### Playing the game
 
-A standard game of riichi mahjong starts with four players shuffling a set of 136 tiles, then arranging them into a set of four "walls" two tiles high and 17 tiles long. After placing the walls, the first dealer rolls a pair of dice to determine where the tile wall is broken, then each player takes tiles until they have 13 tiles as their starting hand. Seven tile stacks (14 tiles total) are marked for a special purpose and are known as the "dead wall," and the remaining 70 tiles form the playing wall, where players draw from. Players then begin drawing tiles from the wall, starting with the dealer and moving counterclockwise, discarding a tile each time so that their hand remains at 13 tiles. Discards are placed in an ordered fashion, as required by the rules (using your opponents' discards to glean information about their hand is also an important element of strategy).
+A standard game of riichi mahjong starts with four players shuffling a set of 136 tiles, then arranging them into a set of four walls two tiles high and 17 tiles long. After placing the walls, the first dealer rolls a pair of dice to determine where the tile wall is broken, then each player takes tiles until they have 13 tiles as their starting hand. Seven tile stacks (14 tiles total) are marked for a special purpose and are known as the "dead wall," and the remaining 70 tiles form the playing wall, where players draw from. Players then begin drawing tiles from the wall, starting with the dealer and moving counterclockwise, discarding a tile each time so that their hand remains at 13 tiles. Discarded tiles are placed in an ordered fashion, as required by the rules (using your opponents' discards to glean information about their hand is also an important element of strategy).
 
-The set of tiles includes tiles of 34 types, with 4 tiles of each type. The 34 types of tiles are shown below, and consist of three suits of tiles numbered one through nine and then seven types of "honor" tiles.
+The set of tiles includes tiles of 34 types, with 4 tiles of each type. The 34 types of tiles are shown below, and consist of three suits of tiles numbered one through nine and then seven types of non-numbered "honor" tiles.
 
 ![The tiles of riichi mahjong](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/riichi_tiles.png)
 
-- First row: Character tiles (*Manzu*): one through nine (including a special red 5-man)
-- Second row: Dot tiles (*Pinzu*): one through nine (including a special red 5-pin)
-- Third row: Bamboo tiles (*Souzu*): one through nine (including a special red 5-sou)
-- Fourth row: Wind tiles: East (*Ton*), South (*Nan*), West (*Shaa*), North (*Pei*); then Dragon tiles: Red (*Chun*), White (*Haku*), Green (*Hatsu*)
+- First row: Character tiles (*manzu*): one through nine (including a special red 5-man)
+- Second row: Dot tiles (*pinzu*): one through nine (including a special red 5-pin)
+- Third row: Bamboo tiles (*souzu*): one through nine (including a special red 5-sou)
+- Fourth row: Wind tiles: East (*ton*), South (*nan*), West (*shaa*), North (*pei*); then Dragon tiles: Red (*chun*), White (*haku*), Green (*hatsu*)
 
-In each round of play, players will attempt to win a hand. To win their hand, a player needs to complete four groups (*Mentsu*) and one head (*Atama*, also commonly just called a pair). Groups come in three forms:
+In each round of play, players will attempt to win a hand. To win their hand, a player needs to complete four groups (*mentsu*) and one head (*atama*, also commonly called a pair). Groups come in three forms:
 
-- **Run/sequence** (*Shuntsu*): A set of three consecutive numbered tiles. For example, 1-pin, 2-pin, and 3-pin, or 4-sou, 5-sou and 6-sou. Does not wrap around (in the standard ruleset).
-- **Set/triplet** (*Koutsu*): A set of three identical tiles.
-- **Quad** (*Kantsu*): A set of four identical tiles. Kans operate by special rules so that they are only counted as 3 tiles in the hand, and have other special properties as well. 
+- **Run/sequence** (*shuntsu*): A set of three consecutive numbered tiles. For example, 1-pin, 2-pin, and 3-pin, or 4-sou, 5-sou and 6-sou. Does not wrap around (in the standard ruleset).
+- **Set/triplet** (*koutsu*): A set of three identical tiles.
+- **Quad** (*kantsu*): A set of four identical tiles. Kans operate by special rules so that they are only counted as 3 tiles in the hand, and have other special properties as well. 
 
 In addition to having four complete groups and one head, a player must also have at least one *yaku* to win a hand. See the next section for a short discussion of yaku.
 
-A player attempting to form groups and advance their hand only by drawing and discarding tiles is said to have a **closed** hand (*Menzen*). In order to speed up their hand progression, a player may choose to **open** their hand by calling tiles from other players. The two most common calls are:
+A player attempting to form groups and advance their hand only by drawing and discarding tiles is said to have a **closed** hand (*menzen*). In order to speed up their hand progression, a player may choose to **open** their hand by calling tiles from other players. The two most common calls are:
 
-- ***Chii***: A call to use a tile just discarded by our left player (*Kamicha*) to complete a run in our hand. For example, if we have a 5-pin and 7-pin tile in our hand and our kamicha discards a 6-pin tile, we may call chii on that tile.
+- ***Chii***: A call to use a tile just discarded by our left player (*kamicha*) to complete a run in our hand. For example, if we have a 5-pin and 7-pin tile in our hand and our kamicha discards a 6-pin tile, we may call chii on that tile.
 - ***Pon***: A call to use a tile just discarded by any player to complete a set in our hand. E.g., if we have two haku tiles, we may call pon on a haku that was just discarded to complete a set of haku.
 
 Chii and pon calls are made vocally by saying "chii" or "pon" upon seeing the discard. If you call pon, the general rule is that you must do so before the next player draws a tile into their hand. Pon takes priority over chii if both calls are made on the same discard. Called groups are set aside from your hand, face up and visible to other players (hence "open" hand). The upside of calling is that you can ensure you complete a group without having to rely on the luck of the draw. The downside of calling is that open hands have a significantly reduced number of available yaku, narrowing the ways you can win the hand. Note that there are also three variants of the ***Kan*** call, which forms groups of four tiles. See a more thorough game introduction for the rules for calling kan.
@@ -46,16 +46,16 @@ Once a player has advanced their hand to the point where it only needs one more 
 
 ![Courtesy of the efficiency trainer](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/tenpai_example.png)
 
-A hand that is one tile away from tenpai is called *iishanten* or *1-shanten*. A hand that is two tiles away from tenpai is *ryanshanten* or *2-shanten*, and in general one that is n tiles away from ready is *n-shanten*. The general goal is to make your hand closer to ready by completing groups, while maximizing your hand's **tile acceptance** (*Ukiere*), or the number of tiles that will bring your hand one step closer to tenpai. The strategy involved in lowering your hand's shanten while maximizing ukiere is generally referred to in English as **tile efficiency**, and it is a topic of considerable depth.
+A hand that is one tile away from tenpai is called *iishanten* or *1-shanten*. A hand that is two tiles away from tenpai is *ryanshanten* or *2-shanten*, and in general one that is n tiles away from ready is *n-shanten*. The general goal is to make your hand closer to ready by completing groups, while maximizing your hand's **tile acceptance** (*ukiere*), or the number of tiles that will bring your hand one step closer to tenpai. The strategy involved in lowering your hand's shanten while maximizing ukiere is generally referred to in English as **tile efficiency**, and it is a topic of considerable depth.
 
 Finally, if a player has a hand in tenpai *and* has at least one yaku, they are in a position to win the hand. Since a hand in tenpai has 13 tiles and a complete hand has 14 tiles, a player can win on the final tile either when another player discards it or if they draw it themselves. This corresponds to the two calls:
 
 - ***Ron***: Calling a win when another player discards a tile that completes your hand.
 - ***Tsumo***: Calling a win when you obtain a tile that completes your hand by self-draw.
 
-Like chii and pon, ron and tsumo calls are said out loud to alert the table that you have won the hand. Once calling ron or tsumo, you flip down the tiles of your hand so that the other players can confirm you indeed have a winning hand, and then the hand is scored (scoring can occasionally be complex and won't be covered on this page). Once the hand is scored, points are redistributed accordingly, and the next round starts. If all 70 tiles of the playing wall have been drawn and discarded and no player has won a hand, the round is said to end in exhaustive draw (*Ryuukyoku*). A typical game of riichi mahjong has eight rounds, though certain conditions can cause rounds to repeat. Whoever has the most points at the end of the final round wins the game.
+Like chii and pon, ron and tsumo calls are said out loud to alert the table that you have won the hand. Once calling ron or tsumo, you flip down the tiles of your hand so that the other players can confirm you indeed have a winning hand, and then the hand is scored (scoring can occasionally be complex and won't be covered on this page). Once the hand is scored, points are redistributed accordingly, and the next round starts. If all 70 tiles of the playing wall have been drawn and discarded and no player has won a hand, the round is said to end in exhaustive draw (*ryuukyoku*). A typical game of riichi mahjong has eight rounds, though certain conditions can cause rounds to repeat. Whoever has the most points at the end of the final round wins the game.
 
-This all seems like a lot of information just to get started, but I promise that the game and the general thrust of hand-building makes more sense in practice than it does in text. There's no substitute for just trying it out! More detailed discussions and rules are much easier to interpret once you have wrapped your mind around the basic structure and flow of the game.
+This all seems like a lot of information just to get started, but I promise that the game and the general thrust of hand-building makes more sense in practice than it does in text. There's no substitute for just trying it out! More detailed discussions, other aspects of the game such as defending against other players' hands, and the full ruleset are much easier to grasp once you have wrapped your mind around the basic structure and flow of the game.
 
 ### What's unique to riichi?
 
