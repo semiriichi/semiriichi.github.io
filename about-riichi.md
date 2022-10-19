@@ -22,10 +22,10 @@ The set of tiles includes tiles of 34 types, with 4 tiles of each type. The 34 t
 
 ![The tiles of riichi mahjong](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/riichi_tiles.png)
 
-First row: Character tiles (*Manzu*): one through nine
-Second row: Dot tiles (*Pinzu*): one through nine
-Third row: Bamboo tiles (*Souzu*): one through nine
-Fourth row: Wind tiles: East (*Ton*), South (*Nan*), West (*Shaa*), North (*Pei*); then Dragon tiles: Red (*Chun*), White (*Haku*), Green (*Hatsu*)
+- First row: Character tiles (*Manzu*): one through nine
+- Second row: Dot tiles (*Pinzu*): one through nine
+- Third row: Bamboo tiles (*Souzu*): one through nine
+- Fourth row: Wind tiles: East (*Ton*), South (*Nan*), West (*Shaa*), North (*Pei*); then Dragon tiles: Red (*Chun*), White (*Haku*), Green (*Hatsu*)
 
 
 
