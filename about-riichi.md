@@ -46,9 +46,14 @@ Once a player has advanced their hand to the point where it only needs one more 
 
 ![Courtesy of the efficiency trainer](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/tenpai_example.png)
 
-A hand that is one tile away from tenpai is called *iishanten* or *1-shanten*. A hand that is two tiles away from tenpai is *ryanshanten* or *2-shanten*, and in general one that is n tiles away from ready is *n-shanten*. The general goal is to make your hand closer to ready by completing groups, while maximizing your hand's **tile acceptance** (*Ukiere*), or the number of tiles that will bring your hand one step closer to tenpai. The strategy involved in advancing your hand's *shanten* while maximizing *ukiere* is generally referred to in English as **tile efficiency**, and it is a topic of considerable depth.
+A hand that is one tile away from tenpai is called *iishanten* or *1-shanten*. A hand that is two tiles away from tenpai is *ryanshanten* or *2-shanten*, and in general one that is n tiles away from ready is *n-shanten*. The general goal is to make your hand closer to ready by completing groups, while maximizing your hand's **tile acceptance** (*Ukiere*), or the number of tiles that will bring your hand one step closer to tenpai. The strategy involved in lowering your hand's shanten while maximizing ukiere is generally referred to in English as **tile efficiency**, and it is a topic of considerable depth.
 
+Finally, if a player has a hand in tenpai *and* has at least one yaku, they are in a position to win the hand. Since a hand in tenpai has 13 tiles and a complete hand has 14 tiles, a player can win on the final tile either when another player discards it or if they draw it themselves. This corresponds to the two calls:
 
+- ***Ron***: Calling a win when another player discards a tile that completes your hand.
+- ***Tsumo***: Calling a win when you obtain a tile that completes your hand by self-draw.
+
+Like chii and pon, ron and tsumo calls are said out loud to alert the table that you have won the hand. Once calling ron or tsumo, you flip down the tiles of your hand so that the other players can confirm you indeed have a winning hand, and then the hand is scored (scoring can occasionally be complex and won't be covered on this page). Once the hand is scored, points are redistributed accordingly, and the next round starts. If all 70 tiles of the playing wall have been drawn and discarded and no player has won a hand, the round is said to end in exhaustive draw (*Ryuukyoku*). A typical game of riichi mahjong has eight rounds, though certain conditions can cause rounds to repeat. Whoever has the most points at the end of the final round wins the game.
 
 ### What's unique to riichi?
 
