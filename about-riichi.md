@@ -18,6 +18,15 @@ Recently, riichi mahjong has been increasing in popularity outside Japan in part
 
 A standard game of riichi mahjong starts with four players shuffling a set of 136 tiles, then arranging them into a set of four "walls" two tiles high and 17 tiles long. After placing the walls, the first dealer rolls a pair of dice to determine where the tile wall is broken, then each player takes tiles until they have 13 tiles as their starting hand. Seven tile stacks (14 tiles total) are marked for a special purpose and are known as the "dead wall," and the remaining 70 tiles form the playing wall, where players draw from. Players then begin drawing tiles from the wall, starting with the dealer and moving counterclockwise, discarding a tile each time so that their hand remains at 13 tiles. Discards are placed in an ordered fashion, as required by the rules (using your opponents' discards to glean information about their hand is also an important element of strategy).
 
+The set of tiles includes tiles of 34 types, with 4 tiles of each type. The 34 types of tiles are shown below, and consist of three suits of tiles numbered one through nine and then seven types of "honor" tiles.
+
+![The tiles of riichi mahjong](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/riichi_tiles.png)
+
+First row: Character tiles (*Manzu*): one through nine
+Second row: Dot tiles (*Pinzu*): one through nine
+Third row: Bamboo tiles (*Souzu*): one through nine
+Fourth row: Wind tiles: East (*Ton*), South (*Nan*), West (*Shaa*), North (*Pei*); then Dragon tiles: Red (*Chun*), White (*Haku*), Green (*Hatsu*)
+
 
 
 ### What's unique to riichi?
