@@ -33,7 +33,14 @@ In each round of play, players will attempt to win a hand. To win their hand, a 
 - **Set/triplet** (*Koutsu*): A set of three identical tiles.
 - **Quad** (*Kantsu*): A set of four identical tiles. Kans operate by special rules so that they are only counted as 3 tiles in the hand, and have other special properties as well. 
 
+In addition to having four complete groups and one head, a player must also have at least one *yaku* to win a hand. See the next section for a short discussion of yaku.
 
+A player attempting to form groups and advance their hand only by drawing and discarding tiles is said to have a **closed** hand (*Menzen*). In order to speed up their hand progression, a player may choose to **open** their hand by calling tiles from other players. The two most common calls are:
+
+- ***Chii***: A call to use a tile just discarded by our left player (*Kamicha*) to complete a run in our hand. For example, if we have a 5-pin and 7-pin tile in our hand and our kamicha discards a 6-pin tile, we may call chii on that tile.
+- ***Pon***: A call to use a tile just discarded by any player to complete a set in our hand. E.g., if we have two haku tiles, we may call pon on a haku that was just discarded to complete a set of haku.
+
+Chii and pon calls are made vocally by saying "chii" or "pon" upon seeing the discard. If you call pon, the general rule is that you must do so before the next player draws a tile into their hand. Pon takes priority over chii if both calls are made on the same discard. Called groups are set aside from your hand, face up and visible to other players (hence "open" hand). The upside of calling is that you can ensure you complete a group without having to rely on the luck of the draw. The downside of calling is that open hands have a significantly reduced number of available yaku, narrowing the ways you can win the hand. Note that there are also three variants of the ***Kan*** call, which forms groups of four tiles. See a more thorough game introduction for the rules for calling kan.
 
 
 
