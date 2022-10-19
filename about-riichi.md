@@ -42,7 +42,9 @@ A player attempting to form groups and advance their hand only by drawing and di
 
 Chii and pon calls are made vocally by saying "chii" or "pon" upon seeing the discard. If you call pon, the general rule is that you must do so before the next player draws a tile into their hand. Pon takes priority over chii if both calls are made on the same discard. Called groups are set aside from your hand, face up and visible to other players (hence "open" hand). The upside of calling is that you can ensure you complete a group without having to rely on the luck of the draw. The downside of calling is that open hands have a significantly reduced number of available yaku, narrowing the ways you can win the hand. Note that there are also three variants of the ***Kan*** call, which forms groups of four tiles. See a more thorough game introduction for the rules for calling kan.
 
+Once a player has advanced their hand to the point where it only needs one more tile to complete, they are said to have a **ready hand**, or to be in *tenpai*. A hand in tenpai will have three complete groups, a head, and one incomplete group, or it can have four complete groups and an incomplete head. For example, the following hand is in tenpai, and is said to **wait** on 2-pin and 5-pin.
 
+![Courtesy of the efficiency trainer](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/tenpai_example.png)
 
 ### What's unique to riichi?
 
