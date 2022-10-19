@@ -46,6 +46,8 @@ Once a player has advanced their hand to the point where it only needs one more 
 
 ![Courtesy of the efficiency trainer](https://raw.githubusercontent.com/semiriichi/semiriichi.github.io/master/images/about-riichi/tenpai_example.png)
 
+A hand that is one tile away from tenpai is called *iishanten* or *1-shanten*. A hand that is two tiles away from tenpai is *ryanshanten* or *2-shanten*, and in general one that is n tiles away from ready is *n-shanten*. 
+
 ### What's unique to riichi?
 
 
