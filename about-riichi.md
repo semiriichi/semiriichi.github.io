@@ -59,7 +59,17 @@ Like chii and pon, ron and tsumo calls are said out loud to alert the table that
 
 A full accounting of the rules of riichi mahjong and how they differ from other mahjong variants is outside the scope of this intro page. That said, four crucial aspects of riichi warrant mention here:
 
-1) Yaku
-2) Riichi
-3) Dora
-4) Furiten
+#### Yaku
+
+
+
+#### Riichi
+
+
+
+#### Dora
+
+
+
+#### Furiten
+
