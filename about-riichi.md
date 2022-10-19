@@ -27,6 +27,14 @@ The set of tiles includes tiles of 34 types, with 4 tiles of each type. The 34 t
 - Third row: Bamboo tiles (*Souzu*): one through nine (including a special red 5-sou)
 - Fourth row: Wind tiles: East (*Ton*), South (*Nan*), West (*Shaa*), North (*Pei*); then Dragon tiles: Red (*Chun*), White (*Haku*), Green (*Hatsu*)
 
+In each round of play, players will attempt to win a hand. To win their hand, a player needs to complete four groups (*Mentsu*) and one head (*Atama*, also commonly just called a pair). Groups come in three forms:
+
+- **Run/sequence** (*Shuntsu*): A set of three consecutive numbered tiles. For example, 1-pin, 2-pin, and 3-pin, or 4-sou, 5-sou and 6-sou. Does not wrap around (in the standard ruleset).
+- **Set/triplet** (*Koutsu*): A set of three identical tiles.
+- **Quad** (*Kantsu*): A set of four identical tiles. Kans operate by special rules so that they are only counted as 3 tiles in the hand, and have other special properties as well. 
+
+
+
 
 
 ### What's unique to riichi?
