@@ -75,3 +75,12 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 
 #### Furiten
 
+Furiten is a rule that places a restriction on what tiles a ready hand may win on by ron. A hand in tenpai is in a state of furiten and **cannot win by calling ron** in the following cases:
+
+1) At least one winning tile is in the player's own discard pool (this includes tiles called from the player, even if they are no longer technically in this discard pool)
+2) The player with the hand in tenpai has declared riichi and passes on a winning tile
+3) The player with the hand in tenpai who has not declared riichi (is either open or keeping dama) passes on a winning tile discarded by another player
+
+Note that cases 1 & 2 induce a state of persistent furiten that lasts until the end of the round, while case 3 induces a state of *temporary* furiten that lasts until that player's next turn. A hand in furiten **may still win by tsumo**, provided the hand has yaku (since menzen tsumo is a yaku, closed hands may always do this).
+
+The furiten rule is the foundation of defensive play in riichi mahjong and is the primary reason the discards are ordered and segregated in riichi rather than unordered like in some other mahjong variants. Knowing that a player cannot call ron on any tile that they have previously discarded gives other players a chance to avoid dealing in to their opponents if they declare riichi or are displaying a high value hand.
