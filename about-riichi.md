@@ -77,7 +77,7 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 - ***Kandora***: When a player calls kan, an additional dora indicator is flipped over in the dead wall, introducing a new dora tile into play. Kandora are otherwise identical to standard dora.
 - ***Uradora***: When a player wins a hand after declaring riichi, the tiles in the dead wall underneath active dora indicators act as additional dora indicators for the purposes of scoring that hand. These tiles are only revealed upon a win, so you can't know what tiles are uradora beforehand. Normally, that means riichi hands have access to one (potential) additional dora tile. However, if several dora indicators are active due to kan calls, this applies to each one. For example, with one kan call, a winning riichi hand will be scored based on two normal dora indicators and two uradora indicators. Uradora act as a powerful incentive to declare riichi.
 
-Because many high value yaku are difficult to build and with with, dora often act as a crucial source of hand value in riichi mahjong. 
+Because many high value yaku are difficult to build and win with, dora often act as a crucial source of hand value in riichi mahjong. 
 
 #### Furiten
 
