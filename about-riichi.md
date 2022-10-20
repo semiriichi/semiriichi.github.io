@@ -71,7 +71,13 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 
 #### Dora
 
+*Dora* are tiles that grant a winning hand additional value (a higher score) if they are included. At the start of each round, a specific tile in the dead wall is flipped face-up and acts as the **dora indicator**. The tile *after* this tile in the tile sequence is now a dora tile. With the suit tiles, this is straightforward (note that this does wrap around: 9-man as the indicator tile means 1-man is dora, and similarly with the other two suits). With the honor tiles, winds go in round order: East -> South -> West -> North -> East, and dragons are ordered Haku -> Hatsu -> Chun -> Haku. In addition to this standard type of dora tile, there are three additional types of dora tile in riichi mahjong:
 
+- ***Akadora***: Commonly known in English as "red fives," in many riichi rulesets, one tile each of 5-man, 5-pin and 5-sou is replaced with a special red variant that acts as dora. The rule that includes akadora is called *aka ari*, and if they are not included, it is *aka nashi*. 
+- ***Kandora***: When a player calls kan, an additional dora indicator is flipped over in the dead wall, introducing a new dora tile into play. Kandora are otherwise identical to standard dora.
+- ***Uradora***: When a player wins a hand after declaring riichi, the tiles in the dead wall underneath active dora indicators act as additional dora indicators for the purposes of scoring that hand. These tiles are only revealed upon a win, so you can't know what tiles are uradora beforehand. Normally, that means riichi hands have access to one (potential) additional dora tile. However, if several dora indicators are active due to kan calls, this applies to each one. For example, with one kan call, a winning riichi hand will be scored based on two normal dora indicators and two uradora indicators. Uradora act as a powerful incentive to declare riichi.
+
+Because many high value yaku are difficult to build and with with, dora often act as a crucial source of hand value in riichi mahjong. 
 
 #### Furiten
 
