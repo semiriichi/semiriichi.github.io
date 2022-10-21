@@ -61,7 +61,7 @@ This all seems like a lot of information just to get started, but I promise that
 
 ### What's unique to riichi?
 
-A full accounting of the rules of riichi mahjong and how they differ from other mahjong variants is outside the scope of this intro page. That said, four crucial and characteristic aspects of riichi warrant mention here.
+A full accounting of the rules of riichi mahjong and how they differ from other mahjong variants is outside the scope of this intro page. That said, four central and characteristic aspects of riichi warrant mention here.
 
 #### Yaku
 
