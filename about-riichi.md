@@ -69,7 +69,14 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 
 #### Riichi
 
+The namesake of riichi mahjong, ***riichi*** is a both declaration and a bet a player can make with a closed tenpai hand that also serves as a yaku for that hand. When a player with a closed hand reaches tenpai upon drawing a tile, they may declare riichi by saying "riichi," discarding an unnecessary tile placed sideways into their discard pool, then placing a thousand point stick into the center of the table. That player can no longer modify their hand for the rest of the round (with one exception for certain kan calls), and can call ron or tsumo when appropriate. Declaring riichi sacrifices flexibility for:
 
+- Riichi: The bet itself counts as yaku, so riichi provides a way for a closed tenpai hand to win even if there are no other yaku present.
+- Ippatsu: A yaku only available to players who declare riichi, ippatsu adds value to the hand if it is won within one turn, provided no other calls at the table interrupt (or "break") it.
+- Uradora: See next subsection.
+- Intimidation: Declaring riichi alerts other players at the table that you are ready to win. This may cause other players to shift to defensive play, or to "fold" to your hand.
+
+Riichi is a powerful tool, and it is often (but not always) better from an expected value standpoint to declare riichi with a closed tenpai hand than to not, even if the hand has other yaku. The value riichi adds to a winning hand is frequently worth the cost even if the yaku it grants is not necessary. Declining to declare riichi with a closed tenpai hand is referred to as keeping ***damaten***, or simply *dama*. Players may opt to keep dama if they are seeking to upgrade their wait, or if they think they will have a better chance at winning by not annoucing that they're tenpai to the table. The merits of riichi vs. dama vary by situation and seasoned players often disagree.
 
 #### Dora
 
@@ -77,7 +84,7 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 
 - ***Akadora***: Commonly known in English as "red fives," in many riichi rulesets, one tile each of 5-man, 5-pin and 5-sou is replaced with a special red variant that acts as dora. The rule that includes akadora is called *aka ari*, and if they are not included, it is *aka nashi*. 
 - ***Kandora***: When a player calls kan, an additional dora indicator is flipped over in the dead wall, introducing a new dora tile into play. Kandora are otherwise identical to standard dora.
-- ***Uradora***: When a player wins a hand after declaring riichi, the tiles in the dead wall underneath revealed dora indicators act as additional dora indicators for the purposes of scoring that hand. These tiles are only revealed upon a win, so you can't know what tiles are uradora beforehand. Normally, that means riichi hands have access to one (potential) additional dora tile. However, if several dora indicators are revealed due to kan calls, this applies to each one. For example, with one kan call, a winning riichi hand will be scored based on two normal dora indicators and two uradora indicators. Uradora act as a powerful incentive to declare riichi.
+- ***Uradora***: When a player wins a hand after declaring riichi, the tiles in the dead wall underneath revealed dora indicators act as additional dora indicators for the purposes of scoring that hand. These tiles are only revealed upon a win, so you can't know what tiles are uradora beforehand. Normally, that means riichi hands have access to one (potential) additional dora tile. However, if several dora indicators are revealed due to kan calls, this applies to each one. For example, with one kan call, a winning riichi hand will be scored based on two normal dora indicators and two uradora indicators. Uradora act as an incentive to declare riichi.
 
 Because many high value yaku are difficult to build and win with, dora often act as a crucial source of hand value in riichi mahjong. 
 
