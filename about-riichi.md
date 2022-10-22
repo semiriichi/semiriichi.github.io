@@ -65,7 +65,18 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 
 #### Yaku
 
+Yaku are specific hand patterns or game conditions and essentially act as "win conditions" in riichi mahjong. As stated in the previous section, **a hand requires at least one yaku in order to win**. The standard rulesets of riichi mahjong define 26 yaku, though there are also so-called "local" yaku that can be included in games using nonstandard rules. Experienced riichi players have the yaku memorized, but beginning players usually learn a few important and common yaku to start and incorporate more into their play as they gain experience. Yaku are worth varying amounts for the purposes of scoring, and generally the more valuable ones are harder to achieve. We recommend new players [consult a yaku list](https://riichi.wiki/List_of_yaku), but we will point out a number of them that beginning players should know.
 
+- *Riichi*: See next subsection. The most important yaku in the game.
+- *Menzen tsumo*: Winning a closed hand by tsumo counts as a yaku, meaning closed hands always have one potential yaku available even without riichi.
+- *Yakuhai*: Having a set of dragon tiles, seat wind (*jikaze*) tiles or round wind (*bakaze*) tiles gives a hand yaku. For example, a player sitting in West can get yakuhai by having three west wind tiles (seat wind) and a player can get yakuhai by having a set of south wind tiles during South 3 (round wind). A hand can have multiple yakuhai and is scored accordingly. Yakuhai is available to open hands, and along with tanyao, is the most common way for open hands to have yaku.
+- *Tanyao*: Having a hand composed entirely of "simples", suited tiles between 2 and 8, grants tanyao. Since this yaku is available to open hands, open tanyao is an extremely common hand in riichi mahjong (except in rulesets where it is forbidden).
+- *Toitoi*: Having a hand of four sets/triplets plus a pair gives toitoi. Available to open hands, so players may pon to build toitoi hands.
+- *Chiitoi*: One of the few yaku that counts as a special exception to the four groups plus a head hand composition rule, a chiitoi hand consists of **seven pairs**. Must be closed, by definition.
+- *Honitsu*: Having a hand composed of honor tiles plus tiles of only one suit gives honitsu. Honitsu is available to open hands, but is worth fewer points in that case.
+- *Chinitsu*: Having a hand composed entirely of tiles of a single suit gives chinitsu. Similarly to honitsu, is worth fewer points when open.
+
+In addition to the standard yaku, riichi mahjong includes a set of special, extremely valuable hands called ***yakuman***. These are rare hands that generally involve a good deal of luck to obtain. You can see a [list of yakuman hands here.](https://riichi.wiki/List_of_yaku#Yakuman) Due to their showy nature and enormous value, these are highly sought-after hands, but we don't recommend beginning players worry so much about them to start.
 
 #### Riichi
 
