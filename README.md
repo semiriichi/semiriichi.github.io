@@ -15,3 +15,7 @@ author: [Add name(s)]
 ```
 
 This text tells Jekyll that it's a post so it knows how to format it.
+
+### Editing a page
+
+Editing any one of the non-post pages just requires editing the corresponding markdown file in the root directory. Just make sure to leave the frontmatter text alone.
