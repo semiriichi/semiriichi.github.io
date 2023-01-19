@@ -12,6 +12,10 @@ If you are not local to our club and interested in seeing if there is a club in 
 
 Riichi mahjong is a game with a significant amount of terminology to learn. American players tend to use English and Japanese terminology interchangeably, though more experienced players tend to use Japanese terminology primarily, as it is often more succinct and precise than the translated terms. A list of common terms can be found on [the riichi wiki](https://riichi.wiki/List_of_terminology_by_alphabetical_order), and a more extensive list can be found on [the mahjong-ny website.](http://mahjong-ny.com/features/terminology/)
 
+### The Mahjong Guide
+
+A site called the Mahjong Guide has a page named [A Beginner's Guide to Riichi Mahjong](https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/) which covers some of the same topics as the About Riichi page on this site. There are also a series of posts called [Mahjong Fundamentals](https://mahjong.guide/2017/12/29/mahjong-fundamentals-1-introduction/) which give a beginner-level introduction to important concepts such as 5 block theory and defensive techniques.
+
 ### Riichi Book 1
 
 Written by Daina Chiba as a guide to help European riichi players strengthen their fundamentals, [Riichi Book 1](https://github.com/dainachiba/RiichiBooks/raw/master/RiichiBook1.pdf) is the most frequently recommended resource for beginner players. If you don't plan on playing on Tenhou.net, skip the first two chapters and start on chapter 3. While not the be-all and end-all of riichi strategy, most players agree that Riichi Book 1 covers the basics of the game that every player should (eventually) be familiar with.
