@@ -32,6 +32,10 @@ This [Riichi Scoring Trainer](https://scoringtrainer.konbamwa.net/), brought to 
 
 [This translated version](https://drive.google.com/file/d/1ApHp2Dm-3dkEQTEAnmfTsk8J6OaH8d4G/view) of G-Uzaku's book on tile efficiency is a good resource for further honing your riichi hand-building strategy once you are finished with Riichi Book 1. Though it is an intermediate-level book, the presentation is accessible and it is divided into many short "lessons" rather than long chapters.
 
+### Riichi Mahjong Strategy
+
+[A translated version] of Riichi Mahjong Strategy is available as well. This is a general, intermediate-to-advanced level resource that players might read after they've absorbed Riichi Book 1 and feel like they've hit a wall in ranked room with their current skillset.
+
 ### Super Digital Mahjong
 
 [Super Digital Mahjong](https://natsuai.com/mahjong/digital/) by Japanese pro player Kobayashi Gō is another intermediate-level resource covering riichi strategy with a focus on so-called "digital" play -- a mahjong philosophy that prioritizes making decisions based on sound understanding of the statistics and probability involved rather than playing by intuition or feel.
