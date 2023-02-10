@@ -34,7 +34,7 @@ This [Riichi Scoring Trainer](https://scoringtrainer.konbamwa.net/), brought to 
 
 ### Riichi Mahjong Strategy
 
-[A translated version] of Riichi Mahjong Strategy is available as well. This is a general, intermediate-to-advanced level resource that players might read after they've absorbed Riichi Book 1 and feel like they've hit a wall in ranked room with their current skillset.
+[A translated version](https://files.riichi.moe/mjg/books%20(en)/Riichi%20Mahjong%20Strategy%20%28rms%29.pdf) of Riichi Mahjong Strategy is available as well. This is a general, intermediate-to-advanced level resource that players might read after they've absorbed Riichi Book 1 and feel like they've hit a wall in ranked room with their current skillset. (Caveat: This resource was translated by a 4channer, and the translation is a bit idiosyncratic as a result)
 
 ### Super Digital Mahjong
 
