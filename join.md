@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SE-MI Events
-permalink: /events/
+title: Join Us
+permalink: /join/
 ---
 
 ### Join us!
