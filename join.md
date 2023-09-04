@@ -4,7 +4,7 @@ title: Join Us
 permalink: /join/
 ---
 
-Interested in joining our group? There are three options:
+Interested in joining our club? There are three options:
 
 1. Join the [Meetup.com group](https://www.meetup.com/se-mi-mahjong/) and attend one of our meetups.
   
