@@ -10,7 +10,7 @@ If you are not local to our club and interested in seeing if there is a club in 
 
 ### Terminology lists
 
-Riichi mahjong is a game with a significant amount of terminology to learn. American players tend to use English and Japanese terminology interchangeably, though more experienced players tend to use Japanese terminology primarily, as it is often more succinct and precise than the translated terms. A list of common terms can be found on [the riichi wiki](https://riichi.wiki/List_of_terminology_by_alphabetical_order), and a more extensive list can be found on [the mahjong-ny website.](http://mahjong-ny.com/features/terminology/)
+Riichi mahjong is a game with a significant amount of terminology to learn. American players tend to use English and Japanese terminology interchangeably, though more experienced players tend to use Japanese terminology more heavily, as it is often more succinct and precise than the translated terms. A list of common terms can be found on [the riichi wiki](https://riichi.wiki/List_of_terminology_by_alphabetical_order), and a more extensive list can be found on [the mahjong-ny website.](http://mahjong-ny.com/features/terminology/)
 
 ### The Mahjong Guide
 
