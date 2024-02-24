@@ -4,9 +4,9 @@ title: Useful Resources
 permalink: /resources/
 ---
 
-### Riichi Mahjong Club Map
+### [Riichi Mahjong Club Map](https://jellicodemahjong.wordpress.com/world-riichi-map/)
 
-If you are not local to our club and interested in seeing if there is a club in your area, you can [consult a list of clubs here.](https://jellicodemahjong.wordpress.com/world-riichi-map/) This map may not be fully up-to-date, but it is the most up-to-date one we know of.
+If you are not local to our club and interested in seeing if there is a club in your area, you can check this link! This map may not be fully up-to-date, but it is the most up-to-date one we know of.
 
 ### Terminology lists
 
@@ -16,26 +16,26 @@ Riichi mahjong is a game with a significant amount of terminology to learn. Amer
 
 A site called the Mahjong Guide has a page named [A Beginner's Guide to Riichi Mahjong](https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/) which covers some of the same topics as the About Riichi page on this site. There are also a series of posts called [Mahjong Fundamentals](https://mahjong.guide/2017/12/29/mahjong-fundamentals-1-introduction/) which give a beginner-level introduction to important concepts such as 5 block theory and defensive techniques.
 
-### Riichi Book 1
+### [Riichi Book 1](https://github.com/dainachiba/RiichiBooks/raw/master/RiichiBook1.pdf)
 
-Written by Daina Chiba as a guide to help European riichi players strengthen their fundamentals, [Riichi Book 1](https://github.com/dainachiba/RiichiBooks/raw/master/RiichiBook1.pdf) is the most frequently recommended resource for beginner players. If you don't plan on playing on Tenhou.net, skip the first two chapters and start on chapter 3. While not the be-all and end-all of riichi strategy, most players agree that Riichi Book 1 covers the basics of the game that every player should (eventually) be familiar with.
+Written by Daina Chiba as a guide to help European riichi players strengthen their fundamentals, Riichi Book 1 is the most frequently recommended resource for beginner players. If you don't plan on playing on Tenhou.net, skip the first two chapters and start on chapter 3. While not the be-all and end-all of riichi strategy, most players agree that RB1 covers the basics of the game that every player should (eventually) be familiar with.
 
-### Efficiency trainer
+### [Efficiency trainer](https://euophrys.itch.io/mahjong-efficiency-trainer)
 
-The [efficiency trainer](https://euophrys.itch.io/mahjong-efficiency-trainer) is a browser application that tests your ability to make decisions that allow you to reach tenpai in the fewest number of turns. This program is useful for building an intuition for tile efficiency, but note that efficiency is only one of several considerations when it comes to riichi skill and strategy.
+The efficiency trainer is a browser application that tests your ability to make decisions that allow you to reach tenpai in the fewest number of turns. This program is useful for building an intuition for tile efficiency, but note that efficiency is only one of several considerations when it comes to riichi skill and strategy.
 
-### Riichi Scoring Trainer
+### [Riichi Scoring Trainer](https://scoringtrainer.konbamwa.net/)
 
-This [Riichi Scoring Trainer](https://scoringtrainer.konbamwa.net/), brought to you courtesy of reddit user Varantha, is a handy tool to help you practice counting fu and han and quiz yourself on how many points each hand is worth.
+Brought to you courtesy of reddit user Varantha, Riichi Scoring Trainer is a handy tool to help you practice counting fu and han and quiz yourself on how many points each hand is worth.
 
-### G-Uzaku's Tile Efficiency
+### [G-Uzaku's Tile Efficiency](https://drive.google.com/file/d/1ApHp2Dm-3dkEQTEAnmfTsk8J6OaH8d4G/view)
 
-[This translated version](https://drive.google.com/file/d/1ApHp2Dm-3dkEQTEAnmfTsk8J6OaH8d4G/view) of G-Uzaku's book on tile efficiency is a good resource for further honing your riichi hand-building strategy once you are finished with Riichi Book 1. Though it is an intermediate-level book, the presentation is accessible and it is divided into many short "lessons" rather than long chapters.
+This translated version of G-Uzaku's book on tile efficiency is a good resource for further honing your riichi hand-building strategy once you are finished with Riichi Book 1. Though it is an intermediate-level book, the presentation is accessible and it is divided into many short "lessons" rather than long chapters.
 
-### Riichi Mahjong Strategy
+### [Statistical Mahjong Strategy](https://de.catbox.moe/3edzau.pdf)
 
-[A translated version](https://files.riichi.moe/mjg/books%20(en)/Riichi%20Mahjong%20Strategy%20%28rms%29.pdf) of Riichi Mahjong Strategy is available as well. This is a general, intermediate-to-advanced level resource that players might read after they've absorbed Riichi Book 1 and feel like they've hit a wall in ranked room with their current skillset. (Caveat: This resource was translated by a 4channer, and the translation is a bit idiosyncratic as a result)
+A translated version of Statistical Mahjong Strategy is available as well. This is an intermediate-to-advanced level resource that covers the statistics of mahjong plays in detail, including a wealth of charts and tables. The statistics are derived based on data from Houou players, the highest level room in Tenhou.
 
-### Super Digital Mahjong
+### [Super Digital Mahjong](https://natsuai.com/mahjong/digital/)
 
-[Super Digital Mahjong](https://natsuai.com/mahjong/digital/) by Japanese pro player Kobayashi Gō is another intermediate-level resource covering riichi strategy with a focus on so-called "digital" play -- a mahjong philosophy that prioritizes making decisions based on sound understanding of the statistics and probability involved rather than playing by intuition or feel.
+This book, by Japanese pro player Kobayashi Gō, is another intermediate-level resource covering riichi strategy with a focus on so-called "digital" play -- a mahjong philosophy that prioritizes making decisions based on sound understanding of the statistics and probability involved rather than playing by intuition or feel -- with some unique playstyle perspectives.
