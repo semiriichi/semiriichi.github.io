@@ -34,7 +34,7 @@ This translated version of G-Uzaku's book on tile efficiency is a good resource 
 
 ### [Statistical Mahjong Strategy](https://de.catbox.moe/3edzau.pdf)
 
-A translated version of Statistical Mahjong Strategy is available as well. This is an intermediate-to-advanced level resource that covers the statistics of mahjong plays in detail, including a wealth of charts and tables. The statistics are derived based on data from Houou players, the highest level room in Tenhou.
+A translated version of Statistical Mahjong Strategy is available as well. This is an intermediate level resource that covers the statistics of mahjong plays in detail, including a wealth of charts and tables. The statistics are derived based on data from Houou players, the highest level room in Tenhou.
 
 ### [Super Digital Mahjong](https://natsuai.com/mahjong/digital/)
 
