@@ -32,7 +32,7 @@ Brought to you courtesy of reddit user Varantha, Riichi Scoring Trainer is a han
 
 This translated version of G-Uzaku's book on tile efficiency is a good resource for further honing your riichi hand-building strategy once you are finished with Riichi Book 1. Though it is an intermediate-level book, the presentation is accessible and it is divided into many short "lessons" rather than long chapters.
 
-### [Statistical Mahjong Strategy](https://de.catbox.moe/3edzau.pdf)
+### [Statistical Mahjong Strategy](https://files.riichi.moe/mjg/books%20(en)/Statistical%20Mahjong%20Strategy%20(sms).pdf)
 
 A translated version of Statistical Mahjong Strategy is available as well. This is an intermediate level resource that covers the statistics of mahjong plays in detail, including a wealth of charts and tables. The statistics are derived based on data from Houou players, the highest level room in Tenhou.
 
