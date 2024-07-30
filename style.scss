@@ -14,11 +14,10 @@
 //
 
 @font-face {
-  font-family: "MonaSans";
+  font-family: "OpenSans";
   font-style: normal;
   font-weight: 400;
-  font-stretch: 100%;
-  src: url("/fonts/Mona-Sans.woff2");
+  src: url("/fonts/OpenSans-VariableFont_wdth,wght.ttf");
 }
 
 @font-face {
@@ -43,7 +42,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.4 MonaSans;
+  font: 16px/1.4 OpenSans;
   color: $darkGray;
 }
 
