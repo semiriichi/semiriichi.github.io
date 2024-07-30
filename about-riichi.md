@@ -59,7 +59,7 @@ Like chii and pon, ron and tsumo calls are said out loud to alert the table that
 
 This all seems like a lot of information just to get started, but I promise that the game and the general thrust of building and winning hands makes more sense in practice than it does in text. There's no substitute for just trying it out! More detailed discussions, other aspects of the game such as defending against other players' hands, and the full ruleset are much easier to grasp once you have wrapped your mind around the basic structure and flow of the game.
 
-### What's unique to riichi?
+### Additional rules
 
 A full accounting of the rules of riichi mahjong and how they differ from other mahjong variants is outside the scope of this intro page. That said, four central and characteristic aspects of riichi warrant mention here.
 
