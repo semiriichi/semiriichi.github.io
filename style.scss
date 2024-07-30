@@ -14,6 +14,16 @@
 //
 
 @font-face {
+  font-family: "MonaSans";
+  src: url("/fonts/Mona-Sans.ttf");
+}
+
+@font-face {
+  font-family: "HubotSans";
+  src: url("/fonts/Hubot-Sans.ttf");
+}
+
+@font-face {
   font-family: "RobotoSlab";
   src: url("/fonts/RobotoSlab-VariableFont_wght.ttf");
 }
@@ -40,7 +50,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.4 $helvetica;
+  font: 16px/1.4 MonaSans;
   color: $darkGray;
 }
 
@@ -52,7 +62,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: RobotoSlab;
+  font-family: HubotSans;
   color: $darkerGray;
 
   line-height: 1.7;
