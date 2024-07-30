@@ -39,8 +39,8 @@ In addition to having four complete groups and one head, a player must also have
 
 A player attempting to form groups and advance their hand only by drawing and discarding tiles is said to have a **closed** hand (*menzen*). In order to speed up their hand progression, a player may choose to **open** their hand by calling tiles from other players. The two most common calls are:
 
-- ***Chii***: A call to use a tile just discarded by our left player (*kamicha*) to complete a run in our hand. For example, if we have a 5-pin and 7-pin tile in our hand and our kamicha discards a 6-pin tile, we may call chii on that tile.
-- ***Pon***: A call to use a tile just discarded by any player to complete a set in our hand. E.g., if we have two haku tiles, we may call pon on a haku that was just discarded to complete a set of haku.
+- ***Chii:*** A call to use a tile just discarded by our left player (*kamicha*) to complete a run in our hand. For example, if we have a 5-pin and 7-pin tile in our hand and our kamicha discards a 6-pin tile, we may call chii on that tile.
+- ***Pon:*** A call to use a tile just discarded by any player to complete a set in our hand. E.g., if we have two haku tiles, we may call pon on a haku that was just discarded to complete a set of haku.
 
 Chii and pon calls are made vocally by saying "chii" or "pon" upon seeing the discard. If you call pon, the general rule is that you must do so before the next player draws a tile into their hand. Pon takes priority over chii if both calls are made on the same discard. Called groups are set aside from your hand, face up and visible to other players (hence "open" hand). The upside of calling is that you can ensure you complete a group without having to rely on the luck of the draw. The downside of calling is that open hands have a significantly reduced number of available yaku, narrowing the ways you can win the hand. Note that there are also three variants of the ***Kan*** call, which forms groups of four tiles. See a more thorough game introduction for the rules for calling kan.
 
@@ -52,8 +52,8 @@ A hand that is one tile away from tenpai is called *iishanten* or *1-shanten*. A
 
 Finally, if a player has a hand in tenpai *and* has at least one yaku, they are in a position to win the hand. Since a hand in tenpai has 13 tiles and a complete hand has 14 tiles, a player can win on the final tile either when another player discards it or if they draw it themselves. This corresponds to the two calls:
 
-- ***Ron***: Calling a win when another player discards a tile that completes your hand.
-- ***Tsumo***: Calling a win when you obtain a tile that completes your hand by self-draw.
+- ***Ron:*** Calling a win when another player discards a tile that completes your hand.
+- ***Tsumo:*** Calling a win when you obtain a tile that completes your hand by self-draw.
 
 Like chii and pon, ron and tsumo calls are said out loud to alert the table that you have won the hand. Once calling ron or tsumo, you flip down the tiles of your hand so that the other players can confirm you indeed have a winning hand, and then the hand is scored (scoring can occasionally be complex and won't be covered on this page). Once the hand is scored, points are redistributed accordingly, and the next round starts. If all 70 tiles of the playing wall have been drawn and discarded and no player has won a hand, the round is said to end in exhaustive draw (*ryuukyoku*). 
 
@@ -67,14 +67,14 @@ A full accounting of the rules of riichi mahjong and how they differ from other 
 
 Yaku are specific hand patterns or game conditions and essentially act as "win conditions" in riichi mahjong. As stated in the previous section, **a hand requires at least one yaku in order to win**. The standard rulesets of riichi mahjong define 26 yaku, though there are also so-called "local" yaku that can be included in games using nonstandard rules. Experienced riichi players have the yaku memorized, but beginning players usually learn a few important and common yaku to start and incorporate more into their play as they gain experience. Yaku are worth varying amounts for the purposes of scoring, and generally the more valuable ones are harder to achieve. We recommend new players [consult a yaku list](https://riichi.wiki/List_of_yaku), but we will point out a number of them that beginning players should know.
 
-- *Riichi*: See next subsection. The most important yaku in the game.
-- *Menzen tsumo*: Winning a closed hand by tsumo counts as a yaku, meaning closed hands always have one potential yaku available even without riichi.
-- *Yakuhai*: Having a set of dragon tiles, seat wind (*jikaze*) tiles or round wind (*bakaze*) tiles gives a hand yaku. For example, a player sitting in West can get yakuhai by having three west wind tiles (seat wind) and a player can get yakuhai by having a set of south wind tiles during South 3 (round wind). A hand can have multiple yakuhai and is scored accordingly. Yakuhai is available to open hands, and along with tanyao, is the most common way for open hands to have yaku.
-- *Tanyao*: Having a hand composed entirely of "simples", suited tiles between 2 and 8, grants tanyao. Since this yaku is available to open hands, open tanyao is an extremely common hand in riichi mahjong (except in rulesets where it is forbidden).
-- *Toitoi*: Having a hand of four sets/triplets plus a pair gives toitoi. Available to open hands, so players may pon to build toitoi hands.
-- *Chiitoi*: One of the few yaku that counts as a special exception to the four groups plus a head hand composition rule, a chiitoi hand consists of **seven pairs**. Must be closed, by definition.
-- *Honitsu*: Having a hand composed of honor tiles plus tiles of only one suit gives honitsu. Honitsu is available to open hands, but is worth fewer points in that case.
-- *Chinitsu*: Having a hand composed entirely of tiles of a single suit gives chinitsu. Similarly to honitsu, is worth fewer points when open.
+- *Riichi:* See next subsection. The most important yaku in the game.
+- *Menzen tsumo:* Winning a closed hand by tsumo counts as a yaku, meaning closed hands always have one potential yaku available even without riichi.
+- *Yakuhai:* Having a set of dragon tiles, seat wind (*jikaze*) tiles or round wind (*bakaze*) tiles gives a hand yaku. For example, a player sitting in West can get yakuhai by having three west wind tiles (seat wind) and a player can get yakuhai by having a set of south wind tiles during South 3 (round wind). A hand can have multiple yakuhai and is scored accordingly. Yakuhai is available to open hands, and along with tanyao, is the most common way for open hands to have yaku.
+- *Tanyao:* Having a hand composed entirely of "simples", suited tiles between 2 and 8, grants tanyao. Since this yaku is available to open hands, open tanyao is an extremely common hand in riichi mahjong (except in rulesets where it is forbidden).
+- *Toitoi:* Having a hand of four sets/triplets plus a pair gives toitoi. Available to open hands, so players may pon to build toitoi hands.
+- *Chiitoi:* One of the few yaku that counts as a special exception to the four groups plus a head hand composition rule, a chiitoi hand consists of **seven pairs**. Must be closed, by definition.
+- *Honitsu:* Having a hand composed of honor tiles plus tiles of only one suit gives honitsu. Honitsu is available to open hands, but is worth fewer points in that case.
+- *Chinitsu:* Having a hand composed entirely of tiles of a single suit gives chinitsu. Similarly to honitsu, is worth fewer points when open.
 
 In addition to the standard yaku, riichi mahjong includes a set of special, extremely valuable hands called ***yakuman***. These are rare hands that generally involve a good deal of luck to obtain. You can see a [list of yakuman hands here.](https://riichi.wiki/List_of_yaku#Yakuman) Due to their showy nature and enormous value, these are highly sought-after hands, but we don't recommend beginning players worry so much about them to start.
 
@@ -93,9 +93,9 @@ Riichi is a powerful tool, and it is often (but not always) better from an expec
 
 *Dora* are tiles that grant a winning hand additional value (a higher score) if they are included. At the start of each round, a specific tile in the dead wall is flipped face-up and acts as the **dora indicator**. The tile *after* this tile in the tile sequence is now a dora tile. With the suit tiles, this is straightforward (note that this does wrap around: 9-man as the indicator tile means 1-man is dora, and similarly with the other two suits). With the honor tiles, winds go in round order: East -> South -> West -> North -> East, and dragons are ordered Haku -> Hatsu -> Chun -> Haku. In addition to this standard type of dora tile, there are three additional types of dora tile in riichi mahjong:
 
-- ***Akadora***: Commonly known in English as "red fives," in many riichi rulesets, one tile each of 5-man, 5-pin and 5-sou is replaced with a special red variant that acts as dora. The rule that includes akadora is called *aka ari*, and if they are not included, it is *aka nashi*. 
-- ***Kandora***: When a player calls kan, an additional dora indicator is flipped over in the dead wall, introducing a new dora tile into play. Kandora are otherwise identical to standard dora.
-- ***Uradora***: When a player wins a hand after declaring riichi, the tiles in the dead wall underneath revealed dora indicators act as additional dora indicators for the purposes of scoring that hand. These tiles are only revealed upon a win, so you can't know what tiles are uradora beforehand. Normally, that means riichi hands have access to one (potential) additional dora tile. However, if several dora indicators are revealed due to kan calls, this applies to each one. For example, with one kan call, a winning riichi hand will be scored based on two normal dora indicators and two uradora indicators. Uradora act as an incentive to declare riichi.
+- ***Akadora:*** Commonly known in English as "red fives," in many riichi rulesets, one tile each of 5-man, 5-pin and 5-sou is replaced with a special red variant that acts as dora. The rule that includes akadora is called *aka ari*, and if they are not included, it is *aka nashi*. 
+- ***Kandora:*** When a player calls kan, an additional dora indicator is flipped over in the dead wall, introducing a new dora tile into play. Kandora are otherwise identical to standard dora.
+- ***Uradora:*** When a player wins a hand after declaring riichi, the tiles in the dead wall underneath revealed dora indicators act as additional dora indicators for the purposes of scoring that hand. These tiles are only revealed upon a win, so you can't know what tiles are uradora beforehand. Normally, that means riichi hands have access to one (potential) additional dora tile. However, if several dora indicators are revealed due to kan calls, this applies to each one. For example, with one kan call, a winning riichi hand will be scored based on two normal dora indicators and two uradora indicators. Uradora act as an incentive to declare riichi.
 
 Because many high value yaku are difficult to build and win with, dora often act as a crucial source of hand value in riichi mahjong. 
 
