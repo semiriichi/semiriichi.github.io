@@ -8,6 +8,9 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    {% elif page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.description }}" />
     {% else %}
     <meta name="description" content="A site for the Southeast Michigan Riichi Mahjong club. We play the Japanese variant of mahjong in the Detroit and Ann Arbor areas">
     <meta property="og:description" content="A site for the Southeast Michigan Riichi Mahjong club. We play the Japanese variant of mahjong in the Detroit and Ann Arbor areas" />
