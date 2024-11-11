@@ -4,9 +4,9 @@ title: Useful Resources
 permalink: /resources/
 ---
 
-### [Riichi Mahjong Club Map](https://jellicodemahjong.wordpress.com/world-riichi-map/)
+### [American Riichi Association](https://www.nariichi.org/)
 
-If you are not local to our club and interested in seeing if there is a club in your area, you can check this link! This map may not be fully up-to-date, but it is the most up-to-date one we know of.
+The American Riichi Association (ARA) is an organization helping to coordinate and promote riichi mahjong in the US. On the ARA website, you can find information on [upcoming tournaments](https://www.nariichi.org/upcoming-qualifiers) and [a map of registered clubs around the country](https://www.nariichi.org/usa-clubs), among other things relevant to the US riichi community.
 
 ### Terminology lists
 
@@ -28,14 +28,6 @@ The efficiency trainer is a browser application that tests your ability to make 
 
 Brought to you courtesy of reddit user Varantha, Riichi Scoring Trainer is a handy tool to help you practice counting fu and han and quiz yourself on how many points each hand is worth.
 
-### [G-Uzaku's Tile Efficiency](https://drive.google.com/file/d/1ApHp2Dm-3dkEQTEAnmfTsk8J6OaH8d4G/view)
+### More advanced resources
 
-This translated version of G-Uzaku's book on tile efficiency is a good resource for further honing your riichi hand-building strategy once you are finished with Riichi Book 1. Though it is an intermediate-level book, the presentation is accessible and it is divided into many short "lessons" rather than long chapters.
-
-### [Statistical Mahjong Strategy](https://files.riichi.moe/mjg/books%20(en)/Statistical%20Mahjong%20Strategy%20(sms).pdf)
-
-A translated version of Statistical Mahjong Strategy is available as well. This is an intermediate level resource that covers the statistics of mahjong plays in detail, including a wealth of charts and tables. The statistics are derived based on data from Houou players, the highest level room in Tenhou.
-
-### [Super Digital Mahjong](https://natsuai.com/mahjong/digital/)
-
-This book, by Japanese pro player Kobayashi Gō, is another intermediate-level resource covering riichi strategy with a focus on so-called "digital" play -- a mahjong philosophy that prioritizes making decisions based on sound understanding of the statistics and probability involved rather than playing by intuition or feel -- with some unique playstyle perspectives.
+Resources beyond those listed here, for intermediate-level and seasoned players, are out there! Join us and ask about resources in the discord server to learn more.
