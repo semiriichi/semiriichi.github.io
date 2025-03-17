@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ 'home.md' | markdown }}
+{% include_relative home.md %}
 
 <div class="posts">
   {% for post in site.posts %}
