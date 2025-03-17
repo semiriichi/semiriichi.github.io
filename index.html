@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div>
-  {% include_relative home.md %}
+  {% capture home %}{% include home.md %}{% endcapture %}
+  {{ home | markdownify }}
 </div>
 
 <div class="posts">
