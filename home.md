@@ -1,10 +1,3 @@
----
-layout: page
-title: Home Temp
-description: none
-permalink: /home-temp/
----
-
 SEMI is a riichi mahjong club based in Ann Arbor and the Greater Detroit Area with meetups happening in Ann Arbor (on the U of M campus), 
 Livonia, Royal Oak, and Detroit (on the Wayne State University Campus). All meetups are open to the public and being an enrolled student is not required.
 
