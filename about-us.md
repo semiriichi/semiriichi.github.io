@@ -12,6 +12,61 @@ Most of our members just play for fun and to socialize, but some of us enjoy the
 
 Most of our club activity is discused or planned on our Discord server, and our online nights (where we play on Mahjong Soul) are also organized there, so if you're interested in our club, please click **Join** on the right side of the navigation bar! We welcome players of all experience levels, including people who have never played (or folks who have only played other mahjong variants, like Hong Kong or American mahjong). All you need is a willingness to learn a new game and a good attitude. We hope to see you at our next meetup.
 
-### Contact Us!
+## Club Leadership
+#### Club Leader
+Brian Tseng, [Discord](https://discord.com/users/192101337566019584)
 
-Get in touch with us either through our Discord or by sending us a message at [semiriichi@gmail.com](mailto:semiriichi@gmail.com).
+#### Officers
+- Steve Augustin, [Discord](https://discord.com/users/245255072752205824)
+- Justin "Doc" Beach, [Discord](https://discord.com/users/184779793751867397)
+- Dylan Boyd, [Discord](https://discord.com/users/364183336278818817)
+- Andrew Sasinowski, [Discord](https://discord.com/users/533367749297176576)
+- Hannah Z, [Discord](https://discord.com/users/613777235740065806)
+
+#### Webmaster
+Dylan Boyd, [Discord](https://discord.com/users/364183336278818817)
+
+# Southeast Michigan Riichi Code of Conduct
+
+In the interest of the members of SEMI we adhere to the following code:
+
+## Inclusivity
+
+We are an inclusive and welcoming organization who acts with integrity and respect towards its members and non-members alike when participating in club events, using club communication channels, and are otherwise representing the SEMI organization. 
+
+## Anti-Harassment Policy
+
+Harassment in any form is not tolerated. 
+
+Harassment includes, but is not limited to:
+
+- Inappropriate and unwelcome physical contact and sexual attention
+- Verbal or written language that is derogatory related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category
+- Distribution of pornographic imagery
+- Deliberate intimidation
+- Misogyny
+- Stalking
+- Sustained disruptive behavior
+
+Participants asked to stop any harassing behavior are expected to comply immediately. Non-compliance may result in suspension or expulsion from SEMI, its communication channels and any SEMI hosted or sponsored events.
+
+## Event Conduct
+
+Members are expected to maintain a respectable show of sportspersonship when participating in live or online meetups and competitions. Such behaviors to avoid are, but not limited to:
+
+- Leaving or otherwise disconnecting from matches
+- Cheating
+- Intimidating, distracting, or disturbing others
+- Making negative, sarcastic, or unconstructive remarks about others’ game decisions
+- Being a nuisance during in person events
+- Disrespect for venue or equipment
+- Other similar behaviors
+
+This Code of Conduct applies to all club members and all non-members using the club Discord or in attendance at events hosted by the club.
+
+Members and non-members are expected to follow the guidance of the Leadership Officers when informed they are out of compliance with this Code of Conduct.
+
+Abandonment of the SEMI Code of Conduct will be addressed by the Leadership Officers expediently with appropriate corrective measures.
+
+
+
