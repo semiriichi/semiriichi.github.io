@@ -21,7 +21,7 @@ Brian Tseng, [Discord](https://discord.com/users/192101337566019584)
 - Justin "Doc" Beach, [Discord](https://discord.com/users/184779793751867397)
 - Dylan Boyd, [Discord](https://discord.com/users/364183336278818817)
 - Andrew Sasinowski, [Discord](https://discord.com/users/533367749297176576)
-- Hannah Z, [Discord](https://discord.com/users/613777235740065806)
+- Hannah Zhou, [Discord](https://discord.com/users/613777235740065806)
 
 #### Webmaster
 Dylan Boyd, [Discord](https://discord.com/users/364183336278818817)
