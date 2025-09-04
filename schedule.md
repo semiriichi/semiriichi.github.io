@@ -6,8 +6,9 @@ permalink: /schedule/
 Our current meetup list is:
  - 1st, 3rd, and 5th Thursdays at The Duderstadt Center in Ann Arbor
  - Every other Saturday at the Duderstadt Center in Ann Arbor
- - Every other Saturday at Wayne State Student Center in Detroit
+ - Every other Tuesday at Wayne State Student Center in Detroit
  - Every other Saturday at Gatekeeper Games in Royal Oak
+ - Every other Tuesday at Aubree's in downtown Ypsilanti
  - Every other Sunday at Laurel Park Mall in Livonia
  - Every Monday online on Mahjong Soul, hosted through our discord
 
