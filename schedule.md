@@ -10,7 +10,6 @@ Our current meetup list is:
  - Every other Saturday at Gatekeeper Games in Royal Oak
  - Every other Tuesday at Aubree's in downtown Ypsilanti
  - Every other Sunday at Laurel Park Mall in Livonia
- - Every Monday online on Mahjong Soul, hosted through our discord
 
 For more information, and to RSVP to meetups, please join our [Band.us Group](https://band.us/n/a7a0Adye49f9Q)! Meetups need to have at least 4 people to happen, so RSVPs are important.
 
