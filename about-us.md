@@ -20,6 +20,7 @@ Brian Tseng, [Discord](https://discord.com/users/192101337566019584)
 - Steve Augustin, [Discord](https://discord.com/users/245255072752205824)
 - Justin "Doc" Beach, [Discord](https://discord.com/users/184779793751867397)
 - Dylan Boyd, [Discord](https://discord.com/users/364183336278818817)
+- Aaron Ebejer, [Discord](https://discord.com/users/146125080097849344)
 - Andrew Sasinowski, [Discord](https://discord.com/users/533367749297176576)
 - Hannah Zhou, [Discord](https://discord.com/users/613777235740065806)
 
