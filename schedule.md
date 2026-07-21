@@ -5,9 +5,10 @@ permalink: /schedule/
 ---
 Our current meetup list is:
  - 1st, 3rd, and 5th Thursdays at The Duderstadt Center in Ann Arbor
+ - 2nd and 4th Thursdayd at Games 4 Life in Lake Orion
  - Every other Saturday at the Duderstadt Center in Ann Arbor
  - Every other Tuesday at Wayne State Student Center in Detroit
- - Every other Saturday at Gatekeeper Games in Royal Oak
+ - Every other Saturday at Atomic Coffee in Royal Oak
  - Every other Tuesday at Aubree's in downtown Ypsilanti
  - Every other Sunday at Laurel Park Mall in Livonia
 
