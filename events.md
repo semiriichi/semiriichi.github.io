@@ -4,7 +4,7 @@ title: SE-MI Events
 permalink: /events/
 ---
 
-### [Great Lakes Riichi Open 2025](https://semiriichi.github.io/GLRO-2026/)
+### [Great Lakes Riichi Open 2026](https://semiriichi.github.io/GLRO-2026/)
 
 Join us in Saline, MI on November 14-15, 2026 for the Great Lakes Riichi Open! See the linked event page for more details.
 
